@@ -1,4 +1,5 @@
 vendor/
 .bundle/
 Gemfile.lock
+*.csv
 
